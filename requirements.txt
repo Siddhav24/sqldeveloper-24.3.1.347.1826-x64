@@ -1,0 +1,4 @@
+customtkinter
+biopython
+pandas
+numpy   
